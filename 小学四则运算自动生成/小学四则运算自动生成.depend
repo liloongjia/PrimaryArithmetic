@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619784425 source:f:\myproject\cprograms\小学四则运算自动生成\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<malloc.h>
+	<math.h>
+
